@@ -1,1 +1,1 @@
-Live link - https://github.com/Tuhfatu-Akhtary/Login-Registration-Page.git
+Live link - https://tuhfatu-akhtary.github.io/Login-Registration-Page/
